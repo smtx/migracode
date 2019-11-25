@@ -123,7 +123,7 @@
             "date": "23/11/2019",
             "start_time": "10:30",
             "end_time": "14:30",
-            "week_day": "Saturday"
+            "week_day": "Saturday",
             "type": "Practice",
             "theme": "JavaScript 2"
         },
